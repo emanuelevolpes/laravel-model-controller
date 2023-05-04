@@ -8,8 +8,6 @@
     </head>
     <body>
         <div class="container">
-            <h1>Template Classe 89</h1>
-            <img src="{{ Vite::asset('resources/img/pluto.webp') }}" alt="" srcset="">
         </div>
 
     </body>
